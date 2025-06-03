@@ -9,4 +9,3 @@ sdk: docker
 pinned: false
 ---
 
-# ... existing code ... 
