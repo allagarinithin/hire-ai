@@ -1,0 +1,16 @@
+# Frontend
+hire-ai/node_modules
+hire-ai/dist
+hire-ai/.git
+
+# Backend
+backend/__pycache__
+backend/*.pyc
+backend/.env
+backend/venv
+
+# General
+.git
+.gitignore
+README.md
+*.db 
